@@ -1,6 +1,11 @@
 # Self-Steering Language Models Demo
 
-This application demonstrates the Self-Steering Language Models approach described in the paper "Self-Steering Language Models" by Gabriel Grand et al. It shows how a Planner LM can generate inference programs to guide a Follower LM to solve complex constrained generation tasks.
+This application demonstrates the Self-Steering Language Models approach described in the paper "Self-Steering Language Models" by Gabriel Grand et al. It shows how a Planner LM can generate inference programs to guide a Follower LM to solve complex constrained generation tasks. To read the full paper, visit https://arxiv.org/pdf/2504.07081.
+
+![SS Interface Planner Output](https://github.com/user-attachments/assets/6c0ae5fc-342e-4abe-9771-ba9a28457eb5)
+![SS Interface Planner Output II](https://github.com/user-attachments/assets/e259fd8b-0615-4d7c-8108-bb39589dc0f3)
+![SS Interface Execution Results II](https://github.com/user-attachments/assets/fc1cc422-477b-4c49-b6c8-4a1a91555d81)
+![SS Interface Budget Constraints](https://github.com/user-attachments/assets/dc047a0c-573a-42d5-8dcc-20b338ff15d8)
 
 ## About Self-Steering Language Models
 
